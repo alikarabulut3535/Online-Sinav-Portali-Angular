@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "onlinesinavportali": {
+      "hosting": {
+        "proje01": [
+          "onlinesinavportali"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "onlinesinavportali"
+  }
+}
